@@ -1,0 +1,4 @@
+Host example01
+     HostName example01.internal.net
+     User the_user
+     ForwardX11 yes        
